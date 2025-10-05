@@ -27,7 +27,12 @@ This project allows users to design and visualize their own leather jackets with
 ---
 
 ## 📸 Preview
-![Jacket Builder Screenshot](https://via.placeholder.com/800x400?text=Jacket+Builder+Preview)
+![Jacket Builder Screenshot](https://github.com/SHEHROZ-BIBI5/jacket-builder/blob/main/simple.png)
+![Jacket Builder Screenshot](https://github.com/SHEHROZ-BIBI5/jacket-builder/blob/main/front%20image.png)
+![Jacket Builder Screenshot](https://github.com/SHEHROZ-BIBI5/jacket-builder/blob/main/back.png)
+![Jacket Builder Screenshot](https://github.com/SHEHROZ-BIBI5/jacket-builder/blob/main/image%20copy%203.png)
+![Jacket Builder Screenshot](https://github.com/SHEHROZ-BIBI5/jacket-builder/blob/main/right.png)
+ 
 
 ---
 
