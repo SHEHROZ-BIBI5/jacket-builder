@@ -1,14 +1,8 @@
-import React from "react";
+ import React from "react";
 
 const ZipperedHoodBack = ({ color = "#F3F5F8" }) => {
   return (
-    <svg
-      width="600"
-      height="300"
-      viewBox="0 0 600 300"
-      xmlns="http://www.w3.org/2000/svg"
-      className="w-full h-auto max-w-lg mx-auto"
-    >
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
       <defs>
         <linearGradient
           id="XMLID_21111_"
